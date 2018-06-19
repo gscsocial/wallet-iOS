@@ -28,16 +28,27 @@ This app offers you one of the safest ways to protect your private data.
 ## Features
 
 Create Wallet
+
 Creates a private/public key pair
+
 Creates a 24 words recovery phrase (human readable private key recovery phrase) (BIP39)
+
 Import Wallet
+
 Import with private key or 24 words recovery phrase or import keystore file
+
 Wallet Functionalities
+
 Check balance (GSC, tokens)
+
 Send GSC and tokens
+
 Receive using QR code
+
 Submit votes for representatives
+
 Offline signing mechanism with QR code scanning
+
 Participate on token distributions
 
 ## Getting Started
