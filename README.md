@@ -1,3 +1,21 @@
+<h1 align="center">
+  <br>
+  <img width="40%" src="https://i.loli.net/2018/06/19/5b290aa0885f1.png">
+  <br>
+  GSC Wallet for iOS
+  <br>
+</h1>
+
+<h4 align="center">
+  iOS Client for <a href="https://gsc.social">GSC Wallet</a>
+</h4>
+
+<p align="center">
+  <a href="#Features">Features</a> •
+  <a href="#Getting Started">Getting Started</a> 
+</p>
+
+
 # Welcome to GSC Wallet's open source iOS app!
 
 GSC Wallet is a multifunctional iOS wallet for the GSC network.
