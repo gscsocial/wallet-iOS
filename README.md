@@ -57,6 +57,9 @@ Send GSC
 
 Use QRCode or address to receive GSC
 
+## Screen Shot
+![image](https://github.com/gscsocial/wallet-iOS/blob/master/screenshoots/home.png)
+
 ## Getting Started
 
 1. [Download](https://developer.apple.com/xcode/download/) the Xcode 9 release.
