@@ -57,7 +57,6 @@ Send GSC
 
 Use QRCode or address to receive GSC
 
-
 ## Getting Started
 
 1. [Download](https://developer.apple.com/xcode/download/) the Xcode 9 release.
